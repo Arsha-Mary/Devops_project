@@ -1,11 +1,34 @@
-# Devops_project
+# Application Deployment and Database Migration
+
+The goal of the project is to construct a website that displays current company data using JavaScript and NodeJS. We will employ a CI/CD pipeline, which includes four critical stages: **Source, Build, Deploy and  Database Migration** to enable effective software delivery. The source code will be uploaded to a version control system (GitHub) and tagged with the relevant version. Jenkins will be used as an automated pipeline tool to accomplish continuous integration, which comprises steps such as compiling, building, validating and then after moving the program to the staging server, we will deploy it on Azure using a docker container. This project describes a concept to automate containerized application deployment while handling database migrations. Creating a prototype web application, posting its source code on GitHub, deploying it using Docker on an Azure Virtual Machine (VM), utilizing SQL Database as the backend, and establishing a Continuous Integration/Continuous Deployment (CI/CD) pipeline for continuous updates. It also requires migrating the SQL database to AWS using thE AWS Database Migration Service. The project&#39;s goal is to demonstrate how to deploy a web application in a containerized environment, leverage cloud infrastructure, employ CI/CD approaches, and transfer a database between cloud providers. The results can benefit developers, cloud engineers, and organizations wishing to modernize their application deployment and database management practices.
 
 
 
 
+**OVERVIEW**
+
+•	Create a web application “Application Deployment and Database Migration” with the necessary functionality.
+
+•	Use GitHub to host the source code for version control and teamwork.
+
+•	On an Azure VM, set up and deploy the application using Docker.
+
+•	Use SQL as the database to store and support data.
+
+•	For automated updates, create a CI/CD pipeline.
+
+•	Utilize the AWS Database Migration Service to migrate the SQL database to AWS.
+
+![image](https://github.com/Arsha-Mary/Devops_project/assets/122686375/606685e1-ca83-41ef-b2a7-ffc468caf57f)
+
+![image](https://github.com/Arsha-Mary/Devops_project/assets/122686375/86521576-1048-4ce0-be8d-bf61fc3d34d2)
 
 
-**WEB APPLIVATION DEVELOPMENT**
+**WEB APPLICATION DEVELOPMENT**
+
+We successfully designed and built a web application during the local system development phase. The establishment of a secure login page, with login credentials kept systematically in a MySQL database, is a critical component of this program. The development process was fueled using the JavaScript programming language, which was used to create a dynamic and responsive application. Furthermore, Node.js played an important part in front-end development, improving the user interface for an ideal user experience. This comprehensive strategy aims to discover and fix any potential difficulties, ensuring the web application&#39;s seamless and dependable execution.
+
+In conclusion, this project successfully passed three important stages, beginning with the construction of a feature-rich online application utilizing JavaScript and Node.js, which was hosted on GitHub for efficient version control. The construction process included Docker containerization and deployment on an Azure Virtual Machine using SQL as the database of choice. A CI/CD pipeline was used to simplify automation, assuring dependable updates. The project resulted in scalability optimization by transferring the SQL database to AWS using the Database Migration Service. This holistic strategy represents the effective integration of current development practices, cloud infrastructure, and collaboration tools, resulting in a durable and scalable web application capable of delivering efficient performance in a variety of situations.
 
 ![image](https://github.com/Arsha-Mary/Devops_project/assets/122686375/8839f2ce-15c9-4de7-a3a3-e11660f47784)
 

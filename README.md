@@ -40,7 +40,7 @@ The first step in starting the CI/CD pipeline is to set up a code repository and
 
 **Source Code Git Hub Url : (https://github.com/Arsha-Mary/Devops_project.git)**
 
-**Branches: master**
+**Branches: main**
 
 **Build**
 With a completely working web application source code posted on GitHub, our next step was to create a containerized version that was ready for deployment. Here successfully encased the application using Docker, assuring consistency, reliability, and portability. The Dockerized application was then deployed on an Azure Virtual Machine (VM), utilizing Azure's powerful infrastructure to successfully host and manage the application and used SQL as the database to store and maintain data, guaranteeing a safe and scalable data management solution for our online application.

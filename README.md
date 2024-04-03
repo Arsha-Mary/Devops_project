@@ -38,7 +38,7 @@ We successfully designed and built a web application during the local system dev
 
 The first step in starting the CI/CD pipeline is to set up a code repository and version control. We set up a GitHub repository, which will be useful for managing the code. Team members may simply push changes to a shared repository using Git, and any team member can get updated code from others using pull. The pipeline can be set to run automatically or manually started by the user. We will use the JavaScript programming language to write the source code, and Node JS for front-end UI implementation.
 
-**Source Code Git Hub Url : https://github.com/jyothimaria/Devops_project.git**
+**Source Code Git Hub Url : (https://github.com/Arsha-Mary/Devops_project.git)**
 
 **Branches: master**
 
